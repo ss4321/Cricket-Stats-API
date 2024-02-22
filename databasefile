@@ -1,0 +1,6 @@
+{"url": "http://127.0.0.1:5000/", "query": "/?", "result": null}
+{"url": "http://127.0.0.1:5000/history", "query": "/history?", "result": null}
+{"url": "http://127.0.0.1:5000/history", "query": "/history?", "result": null}
+{"url": "http://127.0.0.1:5000/teams", "query": "/teams?", "result": null}
+{"url": "http://127.0.0.1:5000/api/teams", "query": "/api/teams?", "result": null}
+{"url": "http://127.0.0.1:5000/history", "query": "/history?", "result": null}
